@@ -128,7 +128,7 @@ GitHub license explained [https://choosealicense.com](https://choosealicense.com
 An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.   
 
 ```terminal
-git remote add upstream https://github.com/all3yp/Hhacktoberandom
+git remote add upstream https://github.com/all3yp/hacktoberandom
 ```
 
 You can verify that the new remote has been added by typing
